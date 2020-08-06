@@ -29,6 +29,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- MEDIUM:START -->
+- [webpack crash course bagian 1](https://medium.com/@muhammadyusufadip.1999/webpack-crash-course-bagian-1-1398a7ab7ea7?source=rss-ae8fd7bba59b------2)
+- [Memahami Higher-Order Functions dalam Javascript [Level Mudah]](https://medium.com/@muhammadyusufadip.1999/memahami-higher-order-functions-dalam-javascript-level-mudah-2e7097545496?source=rss-ae8fd7bba59b------2)
 <!-- MEDIUM:END -->
 
 ### 📺 Latest YouTube Videos
