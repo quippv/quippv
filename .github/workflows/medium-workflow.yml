@@ -1,4 +1,4 @@
-name: Latest MEDIUN Post
+name: Latest MEDIUM Post
 on:
   schedule:
     # Runs every hour
