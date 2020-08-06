@@ -39,3 +39,7 @@
 - [Understand Clip an Image to Text with CSS | Speed Code](https://www.youtube.com/watch?v=FEjNjZobeW0)
 - [#7 Partials & Extends - SASS (Indonesia)](https://www.youtube.com/watch?v=4knRn2HRWpA)
 <!-- YOUTUBE:END -->
+
+---
+
+<img align="left" alt="Quippv" src="https://github-readme-stats.vercel.app/api?username=quippv&show_icons=true&hide_border=true" />
