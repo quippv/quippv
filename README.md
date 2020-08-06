@@ -33,4 +33,9 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Floating Navigation for Website (HTML&CSS) | Speed Code](https://www.youtube.com/watch?v=HzAmR-e1bYE)
+- [Simple Dark Mode Login Form Just By Using HTML & CSS in 6 minutes | Speed Code](https://www.youtube.com/watch?v=yffRz9OFrTI)
+- [Creating Dark/Light Mode for Website with Fancy Button | Speed Code](https://www.youtube.com/watch?v=SCNJpgatKTY)
+- [Understand Clip an Image to Text with CSS | Speed Code](https://www.youtube.com/watch?v=FEjNjZobeW0)
+- [#7 Partials & Extends - SASS (Indonesia)](https://www.youtube.com/watch?v=4knRn2HRWpA)
 <!-- YOUTUBE:END -->
