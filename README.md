@@ -2,11 +2,9 @@
 
 ## I'm a Student, Developer, Boyfriend and Teacher!
 
-- 🔭 I’m currently working on a [Developer Student Clubs UPN "Veteran" Yogyakarta](https://developers.google.com/community/dsc "DSC")!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to projects in my area
-- ⚡ Fun fact: I love to coffe, cats and dogs
+- 🌱 I’m loved learning everything 🤣
+- 👯 I’m loved to collaborate with other developers
+- ⚡ Fun fact: I love coffee and cats
 
 ### Connect with me:
 
@@ -27,20 +25,10 @@
 
 ---
 
-### 📕 Latest Blog Posts
-<!-- MEDIUM:START -->
-- [webpack crash course bagian 1](https://medium.com/@muhammadyusufadip.1999/webpack-crash-course-bagian-1-1398a7ab7ea7?source=rss-ae8fd7bba59b------2)
-- [Memahami Higher-Order Functions dalam Javascript [Level Mudah]](https://medium.com/@muhammadyusufadip.1999/memahami-higher-order-functions-dalam-javascript-level-mudah-2e7097545496?source=rss-ae8fd7bba59b------2)
-<!-- MEDIUM:END -->
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Floating Navigation for Website (HTML&CSS) | Speed Code](https://www.youtube.com/watch?v=HzAmR-e1bYE)
-- [Simple Dark Mode Login Form Just By Using HTML & CSS in 6 minutes | Speed Code](https://www.youtube.com/watch?v=yffRz9OFrTI)
-- [Creating Dark/Light Mode for Website with Fancy Button | Speed Code](https://www.youtube.com/watch?v=SCNJpgatKTY)
-- [Understand Clip an Image to Text with CSS | Speed Code](https://www.youtube.com/watch?v=FEjNjZobeW0)
-- [#7 Partials & Extends - SASS (Indonesia)](https://www.youtube.com/watch?v=4knRn2HRWpA)
-<!-- YOUTUBE:END -->
+### 📕 My engineering Wiki
+<!-- WIKI:START -->
+[https://medium.com/@muhammadyusufadip.1999/webpack-crash-course-bagian-1-1398a7ab7ea7?source=rss-ae8fd7bba59b------2](https://mysufadp.notion.site/Engineering-Wiki-6ca7ad629aca42589dd9a30651a0eb0d)
+<!-- WIKI:END -->
 
 ---
 
