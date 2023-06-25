@@ -2,4 +2,4 @@
 
 👨‍💻  I'm Adi!
 
-🌐  I work with JavaScript and all-things about data
+🌐  I am involved in tasks related to business logic and various aspects of data.
